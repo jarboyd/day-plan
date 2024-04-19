@@ -15,3 +15,19 @@ For the initial phase, I aim to implement the following features:
 ## Project Scope
 
 Given the tight two-week timeline, the focus is on creating a functional prototype. Advanced features like authentication, push notifications, or reminders will be considered for future projects or later stages of this one.
+
+## Running the Project
+
+To run the project, first install the dependencies:
+
+```bash
+yarn install
+```
+
+And start the development server
+
+```bash
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
